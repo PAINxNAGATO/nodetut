@@ -1,0 +1,32 @@
+
+[
+{
+  "name" : "PAIN",
+  "marks": "100.00",
+  "is god" : true,
+  "weakness" : null,
+  "myobj" : {
+     "parallel"    : "monkey D luffy",
+     "devilfruit" : "gomu gomu no mi",
+     "father"     : "Monkey D Dragon",
+     "grandad"    : "Monkey D grap",
+     "gear"       : "five"
+
+  }
+},
+{
+  "name"   : "sasuke",
+  "powers" : {
+    "first"  : "sharingan",
+    "second" : "rennegan" ,
+    "third"  : "cursed seal",
+    "fourth" : "katon",
+    "fifth"  : "raiton",
+    "sixth"  : "uchiha taijutsu",
+    "seventh": "swordsmanship",
+    "eight"  : "manda , aoda",
+    "ninth"  : "genjutsu",
+    "tenth"  : "plot"
+  }
+}
+]

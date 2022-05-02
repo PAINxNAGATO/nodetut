@@ -1,0 +1,26 @@
+npm -- npm global command comes with node 
+can check npm version by npm --version
+
+
+local dependencies -- can be only used for local project or a particular project 
+can be install for a particular project or insatlled locally.
+command for inatallation -- npm i <packageName>
+
+or 
+
+global dependencies -- can be used in any project .
+can be installed globally.
+commmand for installation -- npm install -g <packageName>
+
+
+package.json
+manifest file stores information about packages and projects.
+// manueal approah create package.json in the root.
+
+// automated approach 
+1 -- npm init (step by step)
+2 -- npm init --y (everything deafault)
+
+
+// 
+json -- javascript object notation
