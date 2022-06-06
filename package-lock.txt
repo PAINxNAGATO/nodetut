@@ -1,0 +1,6 @@
+===> package-lock.json --
+
+
+// it is record of versions of dependencies of dependencies 
+// so that when someone does npm install he gets the right versions of packages of dependencies so that the program or the code doesnt becomes obsolute
+//its history of versions 

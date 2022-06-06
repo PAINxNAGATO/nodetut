@@ -24,13 +24,15 @@
 // () => {
 //   console.log('hello world')
 // }
-
+// Asynchronous non-blocking with help of call back 
+// in setInterval(() => {
+//        console.log("God D Roger");
+//    })  
 setInterval(() => {
   console.log('Monkey D Luffy')
 },1000)
 // upper function will print when it gets executed 
 // and program control will move forward.
-
 // setTimeout is timer type function
 setTimeout(() => {
   console.log('Ronoroa Zoro')

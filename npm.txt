@@ -4,7 +4,7 @@ can check npm version by npm --version
 
 local dependencies -- can be only used for local project or a particular project 
 can be install for a particular project or insatlled locally.
-command for inatallation -- npm i <packageName>
+command for inatallation -- "npm i <packageName>"
 
 or 
 
@@ -21,6 +21,13 @@ manifest file stores information about packages and projects.
 1 -- npm init (step by step)
 2 -- npm init --y (everything deafault)
 
+// step for insatlling dev dependencies
+// npm i <packageName> -D
 
 // 
 json -- javascript object notation
+
+// nodemon is sasta live-server for nodejs
+//Development dependencies  or dev dependencies are intended as development-only packages, that are unneeded in production.  
+// to uninstall an package 
+// npm uninstall <packageName>

@@ -1,0 +1,5 @@
+/node_modules
+
+=>> After ignoring files how to get files after cloning the repository ?
+=>> just open the json file and then write in the terminal npm install.
+=>> the desired dependencies will be installed by the command npm install.  

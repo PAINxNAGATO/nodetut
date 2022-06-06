@@ -25,3 +25,5 @@
 // can be parsed into js like object
 // nested objects can be created
 // follows the same syntax as the objects in javascript
+
+// in json files we can add scripts .
